@@ -1,0 +1,28 @@
+# Node
+node_modules/
+
+# Build
+dist/
+
+# Env
+.env
+.env.*
+
+# Firebase / secrets
+firebase-config.json
+**/*.key
+**/*.pem
+src/key.json
+
+# Si accidentalmente está backend dentro del frontend
+src/backend/
+src/backend/.env
+src/backend/firebase-config.json
+
+# Editor & system
+.DS_Store
+.vscode/
+.idea/
+
+# For Firebase CLI
+!.firebaserc
