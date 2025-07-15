@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "declaration": false,
+    "emitDeclarationOnly": false,
+    "outDir": "./build",
+    "rootDir": "src"
+  },
+  "include": ["src/backend/**/*"]
+}

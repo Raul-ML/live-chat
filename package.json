@@ -1,0 +1,33 @@
+{
+  "name": "desafio-chat",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start":"node build/backend/index.js",
+    "buildback":"tsc",
+    "dev": "parcel serve ./src/frontend/index.html",
+    "frontend": "parcel build ./src/frontend/index.html --dist-dir dist",
+    "api": "tsx ./src/backend/index.ts",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@vaadin/router": "^2.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.1.0",
+    "express": "^4.21.2",
+    "firebase": "^11.2.0",
+    "firebase-admin": "^13.0.2",
+    "gh-pages": "^6.3.0",
+    "live-server": "^1.2.2",
+    "nodemon": "^3.1.9",
+    "parcel": "^2.13.3",
+    "uuid": "^11.0.5"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}

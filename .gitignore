@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+.parcel-cache/
+build/
+
+# Secrets & Firebase config
+.env
+key.json
+firebase-config.json
+*.key
+*.pem
+# *.png
+# *.jpg
+
+# Si accidentalmente se copia el frontend aquí
+src/backend/
+
+# Si accidentalmente se copia el frontend aquí
+# src/frontend/
+# src/pages/
+# src/components/
+# src/router.ts
+# src/state.ts
+
+# Editor/OS junk
+.DS_Store
+.vscode/
+.idea/
+
+# Firebase CLI (si usas deploy desde aquí)
+!.firebaserc
