@@ -1,6 +1,7 @@
 # Raul's Live Chat
 
 ENGLISH (ESPAÑOL más abajo)
+
 Raul's Live Chat is a fully functional real-time chat application built to practice and demonstrate frontend and backend integration, Firebase real-time database management, and user session handling. The app features public and private chat rooms, participant tracking, message expiration, and color-coded user identities.
 
 Purpose
