@@ -6,7 +6,7 @@ Raul's Live Chat is a fully functional real-time chat application built to pract
 
 Purpose
 
-This project was created to:
+  This project was created to:
 - Explore full-stack development with Firebase and custom API endpoints.
 - Practice frontend routing and state handling.
 - Handle real-time data updates using Firebase Realtime Database.
@@ -49,8 +49,11 @@ Once done, open the frontend app:
 ℹ️ Notes
 
 Firebase credentials are protected using a .env and deployed via Render.
+
 The backend is hosted separately from the frontend for security purposes.
+
 All user data is stored and synced in real-time through Firebase.
+
 Participants are automatically removed from rooms when they disconnect, and rooms are deleted when empty.
 
 ___________________________________________________________________________________________________________
@@ -61,7 +64,7 @@ Raul's Live Chatl es una aplicación de chat en tiempo real completamente funcio
 
 Objetivo del Proyecto
 
-Este proyecto fue desarrollado para:
+  Este proyecto fue desarrollado para:
 
 - Explorar el desarrollo full-stack con Firebase y endpoints de API personalizados.
 - Practicar el enrutamiento frontend y el manejo de estados.
@@ -106,6 +109,9 @@ Una vez hecho esto, ya puedes abrir la app del frontend:
 ℹ️ Notas
 
 Las credenciales de Firebase están protegidas mediante un archivo .env y gestionadas en el backend en Render.
+
 El backend está alojado por separado del frontend para mayor seguridad.
+
 Todos los datos de usuario se almacenan y sincronizan en tiempo real usando Firebase.
+
 Los participantes se eliminan automáticamente de las salas al desconectarse, y las salas privadas se borran cuando están vacías.
