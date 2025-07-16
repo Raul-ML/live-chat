@@ -5,6 +5,7 @@ ENGLISH (ESPAÑOL más abajo)
 Raul's Live Chat is a fully functional real-time chat application built to practice and demonstrate frontend and backend integration, Firebase real-time database management, and user session handling. The app features public and private chat rooms, participant tracking, message expiration, and color-coded user identities.
 
 Purpose
+
 This project was created to:
 - Explore full-stack development with Firebase and custom API endpoints.
 - Practice frontend routing and state handling.
@@ -38,6 +39,7 @@ Before launching the chat app, you must activate the backend API by visiting:
 ➡️ https://backend-live-chat.onrender.com
 
 Wait for a blank page that says: "Cannot GET /"
+
 This step "wakes up" the Render backend service (Render puts it to sleep when inactive).
 
 Once done, open the frontend app:
