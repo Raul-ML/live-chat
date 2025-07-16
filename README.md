@@ -4,6 +4,8 @@ ENGLISH (ESPAÑOL más abajo)
 
 Raul's Live Chat is a fully functional real-time chat application built to practice and demonstrate frontend and backend integration, Firebase real-time database management, and user session handling. The app features public and private chat rooms, participant tracking, message expiration, and color-coded user identities.
 
+
+
 Purpose
 
   This project was created to:
@@ -12,6 +14,8 @@ Purpose
 - Handle real-time data updates using Firebase Realtime Database.
 - Deploy a secure backend service separately from the client using Render.
 - Build a clean and modular app with separate folders for frontend, backend, components, and pages.
+
+
 
 Technologies Used
 - TypeScript / JavaScript
@@ -24,6 +28,8 @@ Technologies Used
 - UUIDv4 for private room IDs
 - Random color assignment to identify users
 
+
+
 Main Features
 - Public and private rooms, each with unique short/long IDs.
 - Real-time chat updates using Firebase.
@@ -31,6 +37,8 @@ Main Features
 - Inactive messages auto-cleaned after a set number of days.
 - Backend handles API routes for room cleanup and management.
 - Firebase security rules restrict unauthorized database access.
+
+
 
 How to Use
 
@@ -45,6 +53,8 @@ This step "wakes up" the Render backend service (Render puts it to sleep when in
 Once done, open the frontend app:
 
 ➡️ https://raul-ml.github.io/live-chat/
+
+
 
 ℹ️ Notes
 
@@ -62,6 +72,8 @@ ESPAÑOL
 
 Raul's Live Chatl es una aplicación de chat en tiempo real completamente funcional, creada para practicar e implementar integración frontend-backend, gestión de base de datos en tiempo real con Firebase y manejo de sesiones de usuario. La app incluye salas públicas y privadas, seguimiento de participantes, expiración de mensajes y usuarios identificados por colores únicos.
 
+
+
 Objetivo del Proyecto
 
   Este proyecto fue desarrollado para:
@@ -71,6 +83,8 @@ Objetivo del Proyecto
 - Gestionar actualizaciones de datos en tiempo real con Firebase Realtime Database.
 - Desplegar un backend seguro por separado del cliente utilizando Render.
 - Construir una app limpia y modular con carpetas diferenciadas para frontend, backend, componentes y páginas.
+
+
 
 Tecnologías Utilizadas
 
@@ -84,6 +98,8 @@ Tecnologías Utilizadas
 - UUIDv4 para generar IDs únicos en salas privadas
 - Asignación aleatoria de colores para identificar usuarios
 
+
+
 Funciones Principales
 
 - Salas públicas y privadas con identificadores cortos y largos únicos
@@ -92,6 +108,8 @@ Funciones Principales
 - Eliminación automática de mensajes inactivos tras varios días
 - El backend gestiona rutas API para limpieza y mantenimiento de salas
 - Las reglas de seguridad de Firebase limitan el acceso no autorizado a la base de datos
+
+
 
 Cómo Usarlo
 
@@ -105,6 +123,8 @@ Este paso "despierta" el backend alojado en Render (Render lo pone en reposo si 
 Una vez hecho esto, ya puedes abrir la app del frontend:
 
 ➡️ https://raul-ml.github.io/live-chat/
+
+
 
 ℹ️ Notas
 
