@@ -66,6 +66,8 @@ All user data is stored and synced in real-time through Firebase.
 
 Participants are automatically removed from rooms when they disconnect, and rooms are deleted when empty.
 
+All messages are deleted after 60 days and all users are removed from the rooms after 2 hours.
+
 ___________________________________________________________________________________________________________
 
 ESPAÑOL
@@ -135,3 +137,5 @@ El backend está alojado por separado del frontend para mayor seguridad.
 Todos los datos de usuario se almacenan y sincronizan en tiempo real usando Firebase.
 
 Los participantes se eliminan automáticamente de las salas al desconectarse, y las salas privadas se borran cuando están vacías.
+
+Todos los mensajes se borran a los 60 dias y todos los usuarios se eliminan de las salas a las 2 horas.
