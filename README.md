@@ -46,15 +46,9 @@ Before launching the chat app, you must activate the backend API by visiting:
 
 ➡️ https://backend-live-chat.onrender.com
 
-Wait for a blank page that says: "Cannot GET /"
-
 This step "wakes up" the Render backend service (Render puts it to sleep when inactive).
 
-Once done, open the frontend app:
-
-➡️ https://raul-ml.github.io/live-chat/
-
-
+Once done, it will redirect you automatically to the webapp.
 
 ℹ️ Notes
 
@@ -119,13 +113,9 @@ Antes de iniciar la aplicación de chat, debes activar la API del backend accedi
 
 ➡️ https://backend-live-chat.onrender.com
 
-Espera a que aparezca una pantalla en blanco con el texto: "Cannot GET /"
 Este paso "despierta" el backend alojado en Render (Render lo pone en reposo si no tiene actividad).
 
-Una vez hecho esto, ya puedes abrir la app del frontend:
-
-➡️ https://raul-ml.github.io/live-chat/
-
+Una vez hecho esto, te redirigirá automáticamente a la webapp.
 
 
 ℹ️ Notas
